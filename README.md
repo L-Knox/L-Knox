@@ -67,18 +67,18 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    alt="ludwigknox" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludwigknox&show_icons=true&locale=en"
+    alt="ludwigknox" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ludwigknox&" alt="ludwigknox" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ludwigknox&" alt="ludwigknox" alt="ludwigknox" /></p>
 
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="ludwigknox" /></a> </p>
