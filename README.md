@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ludwig Knox</h1>
-<h3 align="center">Student🌟.</h3>
+<h3 align="center">Student 🌟.</h3>
 
 <br>
 
