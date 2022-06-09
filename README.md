@@ -12,10 +12,10 @@
 
 - 📫 How to reach me **ludwigknox@gmail.com**
 
-- ⚡ Fun fact :- Food and Video Games 🎮 are the reasons to live.
+- ⚡ Natrium : https://bit.ly/natrium-bot.
 
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludwigknox&show_icons=true&locale=en"
     alt="ludwigknox" /></p>
