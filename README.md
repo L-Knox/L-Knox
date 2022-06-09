@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ludwigknox@gmail.com**
 
-- ⚡ Fun fact :- Food and Music 🎵 are the reasons to live.
+- ⚡ Fun fact :- Food and Video Games 🎮 are the reasons to live.
 
 
 <h3>Statistical Data :-</h3>
